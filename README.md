@@ -1,4 +1,5 @@
 # book-search
+![Screenshot of book-search](client/public/book-search-screenshot.png)
 
 ## Description
 Search for and save books using the Google Books API
